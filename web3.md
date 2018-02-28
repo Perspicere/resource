@@ -1,4 +1,4 @@
-如何建立下一代开放和安全的互联网。
+如何建立下一代开放和安全的互联网。
 
 # 智能合约
 
@@ -77,7 +77,7 @@
 
 # 普及文章
 
-* [开放互联网的未来在你手中](https://medium.freecodecamp.org/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)：电报、电话、电影、收音机与电视这些传媒技术都经历了技术发明 -> 爱好者完善 -> 普及与开放 -> 资本/政府垄断的恶性循环，互联网也正在这个循环当中。这篇文章讲述了这种循环如何形成，互联网为什么还有希望，以及我们可以做什么。
+* [开放互联网的未来在你手中](https://medium.freecodecamp.org/inside-the-invisible-war-for-the-open-internet-dd31a29a3f08)：电报、电话、电影、收音机与电视这些传媒技术都经历了技术发明 -> 爱好者完善 -> 普及与开放 -> 资本/政府垄断的恶性循环，互联网也正在这个循环当中。这篇文章讲述了这种循环如何形成，互联网为什么还有希望，以及我们可以做什么。
 
 * [即将来到的下一代互联网](https://www.wired.com/2017/06/pied-pipers-new-internet-isnt-just-possible-almost/)
 
