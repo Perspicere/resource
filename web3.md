@@ -1,3 +1,5 @@
+如何建立下一代开放和安全的互联网。
+
 # 智能合约
 
 * [Ethereum与EOS比较](https://steemit.com/eos/@trogdor/eos-vs-ethereum-for-dummies)
