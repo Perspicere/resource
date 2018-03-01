@@ -59,7 +59,7 @@
 
 ## 社区
 
-世界范围内已经有大量组织开始布设[无线社区网络](https://en.wikipedia.org/wiki/Wireless_community_network)
+世界范围内已经有大量组织开始布设[无线社区网络](https://en.wikipedia.org/wiki/Wireless_community_network)
 
 ### Wlan Slovenija
 斯洛文尼亚的开放无线网络，目前已经扩散到周边国家。
